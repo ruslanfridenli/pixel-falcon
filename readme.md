@@ -1,4 +1,4 @@
-# Tundra Vault — Sql Lab
+# Sql Lab
 
 A real SQLite playground in the browser via sql.js WebAssembly: music dataset, query editor with Ctrl+Enter, results table and schema browser.
 
@@ -8,7 +8,7 @@ A real SQLite playground in the browser via sql.js WebAssembly: music dataset, q
 ![stack](https://img.shields.io/badge/stack-html%2Fcss%2Fjs%20%2B%20sql%20(sql.js)-orange)
 ![pages](https://img.shields.io/badge/github%20pages-live-brightgreen)
 
-**[Live Demo](https://ruslanfridenli.github.io/tundra-vault/)** · **[Deutsch ↓](#-deutsch)**
+**[Live Demo](https://ruslanfridenli.github.io/pixel-falcon/)** · **[Deutsch ↓](#-deutsch)**
 
 </div>
 
@@ -34,8 +34,8 @@ A real SQLite playground in the browser via sql.js WebAssembly: music dataset, q
 ## Local development
 
 ```bash
-git clone https://github.com/ruslanfridenli/tundra-vault.git
-cd tundra-vault
+git clone https://github.com/ruslanfridenli/pixel-falcon.git
+cd pixel-falcon
 # open index.html in a browser, or serve statically:
 npx serve .
 ```
@@ -62,8 +62,8 @@ Ein echter SQLite-Playground im Browser via sql.js WebAssembly: Musik-Datensatz,
 ### Lokale Entwicklung
 
 ```bash
-git clone https://github.com/ruslanfridenli/tundra-vault.git
-cd tundra-vault
+git clone https://github.com/ruslanfridenli/pixel-falcon.git
+cd pixel-falcon
 npx serve .
 ```
 
