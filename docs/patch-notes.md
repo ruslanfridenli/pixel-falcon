@@ -38,3 +38,4 @@
 - patch 22 — sql lab
 - patch 23 — sql lab
 - patch 24 — sql lab
+- patch 25 — sql lab
