@@ -37,3 +37,4 @@
 - patch 21 — sql lab
 - patch 22 — sql lab
 - patch 23 — sql lab
+- patch 24 — sql lab
