@@ -5,3 +5,4 @@
 - patch 4 — sql lab
 - patch 5 — sql lab
 - patch 6 — sql lab
+- patch 7 — sql lab
